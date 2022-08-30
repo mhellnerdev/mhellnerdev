@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhellnerdev&label=Profile%20views&color=0e75b6&style=flat" alt="mhellnerdev" /> </p>
 
-- 🔭 I’m currently working on **aws, python, flask, and devops automation projects**
+- 🔭 I’m currently working on **aws, python, flask, and code pipeline automation projects**
 
 - 🌱 I’m currently working towards my **AWS DevOps Professional Certification**
 
