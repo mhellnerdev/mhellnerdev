@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **aws, docker, python, flask, code pipeline automation projects, and becoming a full stack dev**
 
+- 🏫 I'm currently learning the Angular framework
+
 - 🌱 I’m currently working towards my **AWS DevOps Professional Certification**
 
 - 💬 Ask me about **AWS**
