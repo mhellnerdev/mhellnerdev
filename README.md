@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhellnerdev&label=Profile%20views&color=0e75b6&style=flat" alt="mhellnerdev" /> </p>
 
-- 🔭 I’m currently working on **aws, docker, python, flask, and infrastructure automation**
+- 🔭 I’m currently working with **aws, kubernetes(k3s), python, flask, and infrastructure automation tools**
 
-- 🏫 I'm currently learning Angular and TypeScript
+- 🏫 I'm currently learning php and vus.js
 
 - 🌱 I’m currently working towards my **AWS DevOps Professional Certification**
 
