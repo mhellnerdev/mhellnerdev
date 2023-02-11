@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Hellner</h1>
-<h3 align="center">Passionate Linux System Administrator with a strong focus in cloud native technology.</h3>
+<h3 align="center">Passionate Linux Systems Administrator with a strong focus in cloud native technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhellnerdev&label=Profile%20views&color=0e75b6&style=flat" alt="mhellnerdev" /> </p>
 
